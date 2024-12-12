@@ -1,7 +1,7 @@
 /* Estilo geral da página */
 body {
     background-color: #1a1a1a; /* Cor de fundo da página */
-    padding-top: 40px; /* Espaçamento superior */
+    
     
 }
 
@@ -19,7 +19,7 @@ body {
 .card-title {
     font-size: 1.25rem; /* Ajusta o tamanho do título */
     font-weight: bold;
-    color: white
+    color: #f7f5f0;
 }
 
 .card p {
@@ -38,5 +38,5 @@ body {
 .title-text {
     text-align: center; 
     font-family: 'Arial', sans-serif; 
-    
+   
 }
